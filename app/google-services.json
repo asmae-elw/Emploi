@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347498558456",
+    "project_id": "last-test-emploi",
+    "storage_bucket": "last-test-emploi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347498558456:android:36c3bfb1e70204886c9c0d",
+        "android_client_info": {
+          "package_name": "com.corporatemailinglist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347498558456-f9lvkq7qeu7n5cng2afq1nmau02itnfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWwDnpbr2szRg9bVktN59f9v3mYG8E76Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347498558456-f9lvkq7qeu7n5cng2afq1nmau02itnfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

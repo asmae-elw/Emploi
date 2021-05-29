@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ajouter une matière</string>
+    <string name="app_alias">Liste des matières et professeurs chargés</string>
+    <string name="action_settings">Settings</string>
+</resources>
